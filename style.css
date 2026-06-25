@@ -12,3 +12,7 @@ body{
 .photo:active{
     transform: rotate(3600deg);
 }
+
+img{
+    max-height: 70vh;
+}
