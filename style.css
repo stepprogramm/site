@@ -10,7 +10,7 @@ body{
 }
 
 .photo:active{
-    transform: rotate(3600deg);
+    transform: rotate(3600deg) ;
 }
 
 img{
