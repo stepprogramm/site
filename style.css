@@ -1,0 +1,14 @@
+body{
+    height: 98vh;
+}
+.photo{
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    align-items: center    ;
+    transition: all 10s;
+}
+
+.photo:active{
+    transform: rotate(3600deg);
+}
